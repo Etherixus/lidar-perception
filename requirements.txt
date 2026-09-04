@@ -1,0 +1,8 @@
+# Primary dependencies
+matplotlib
+numpy
+opencv-python
+tqdm
+open3d
+
+
